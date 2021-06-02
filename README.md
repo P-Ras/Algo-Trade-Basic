@@ -1,7 +1,7 @@
-# Algo-Trade-Basic
+# Trading Strategies for Self-financing Portfolios
 Basic Algorithmic Trading as part of Algorithmic trading coursework.
 
-The portfolio uses self-financing conditions without short-sellinng opportunities. 
+The portfolio uses self-financing conditions without short-selling opportunities. 
 
 The content covers the followings:
 - Gerate the synthetic financial time series.
